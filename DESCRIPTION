@@ -1,0 +1,9 @@
+Package: ASIES
+Type: Package
+Title: Package for teaching R at ASIES, Guatemala
+Version: 0.1.0
+Author: Hugo Garcia
+Maintainer: Hugo Garcia <hugoallangm@gmail.com>
+Description: It contains some data frames from INE and some functions useful for the course
+License: GNU v3
+LazyData: TRUE
