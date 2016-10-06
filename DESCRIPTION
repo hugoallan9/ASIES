@@ -6,4 +6,8 @@ Author: Hugo Garcia
 Maintainer: Hugo Garcia <hugoallangm@gmail.com>
 Description: It contains some data frames from INE and some functions useful for the course
 License: GNU v3
+Imports:
+  foreign,
+  ggplot2,
+  haven
 LazyData: TRUE
